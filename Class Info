@@ -1,0 +1,17 @@
+C36 - Structuring before Coding
+Students design a form using p5 dom to allow players to login and log the player names to the database. The gamestate and the player count are also logged. Students use the OOPs programming style to write the code.
+
+C38 - Game Camera and Display Size
+Students use the data from the database to design the car racing game when the game is in play and use Game Camera to focus the game on the active player in the game. Students also adjust the game canvas to the size of the display device.
+
+C37 - Game in the Database
+Students make the multiplayer car racing game which happens only in the database. Students press the up arrow key to change the distance covered property of each player in the database. The distances covered by all players are shown on the screen with the player playing the game highlighted.
+
+C39 - Real Car Racing
+Students will replace the sprites with real cars of their choice. Students will add a racing track as the background. Students will also write a condition to end the game.
+
+C40 - Marking the Player Car
+Students will create a reset button at the top of the game which will reset the player Count and game State in our game. Students will also add some identification to help the player identify which is their car.
+
+C41 - Player Rank
+Students build a leaderboard that ranks the player according to their performance in the Car Racing game.
